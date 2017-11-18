@@ -3,7 +3,6 @@
 UCY and ETH dataset
 --
 <pre><code>
-
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Script to preprocess the data
 %
